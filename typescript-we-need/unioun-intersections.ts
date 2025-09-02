@@ -10,4 +10,4 @@ type Admin = { isAdmin: boolean };
 let admin: User & Admin = {
   name: "Bilal",
   isAdmin: true,
-}
+};

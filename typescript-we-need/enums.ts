@@ -7,7 +7,6 @@ enum Direction {
 
 let move: Direction = Direction.Up; // 0
 
-
 // custom values
 enum Status {
   Success = 200,
